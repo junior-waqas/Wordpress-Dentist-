@@ -23,6 +23,6 @@ Designed to showcase services, team members, contact information, and help patie
 - **SEO & Performance** — Lightweight theme + caching for fast load times  
 
 ## preview
-
+![Image](https://github.com/user-attachments/assets/1a448983-b2f5-4ab0-93a2-6c2e3130cc59)
 
 
